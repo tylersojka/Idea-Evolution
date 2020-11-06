@@ -14,3 +14,9 @@ This could turn into anything. A tool, a business, a cat picture sharing web app
 The first community decisions will be made once this repo has been forked by 10 different individuals and 10 pull requests made.
  
 The pull requests for this first round could be anything, but for the sake of getting things up and runnin, I think we should stick to editing the readme with the first suggestions on where this should go! Ideas for this could include a way to view all suggestions, a way to vote on suggestions, etc. real ground work stuff! or just thoughts or comments in general! 
+
+I have started a slack for some starter communication and should be joinable through this link:
+
+https://join.slack.com/t/idea-evolution/shared_invite/zt-j6kj398w-~b47r1iLO2vO4dvrNqkTTg
+
+also interested in any other ideas!
